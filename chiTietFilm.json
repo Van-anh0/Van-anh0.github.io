@@ -1,6 +1,6 @@
 [
     {
-      "ID":"1A",
+      "ID":"1",
       "Title": "Avatar",
       "Released": "18 Dec 2009",
       "Runtime": "162 min",
@@ -16,7 +16,7 @@
       
     },
     {
-      "ID":"2A",
+      "ID":"2",
       "Title": "I Am Legend",
       "Released": "14 Dec 2007",
       "Runtime": "101 min",
@@ -32,7 +32,7 @@
      
     },
     {
-      "ID":"3A",
+      "ID":"3",
       "Title": "300",
       "Released" :"09 Mar 2007",
       "Runtime": "117 min",
@@ -47,7 +47,7 @@
       "Poster": "http://womenwriteaboutcomics.com/wp-content/uploads/2014/12/300.-Directed-by-Zack-Snyder.-2006.-Movie-Poster..jpg"
     },
     {
-      "ID":"4A",
+      "ID":"4",
       "Title": "The Avengers",
       "Released": "04 May 2012",
       "Runtime": "143 min",
@@ -63,7 +63,7 @@
      
     },
     {
-      "ID":"5B",
+      "ID":"5",
       "Title": "Mi Mi Kim Mik",
       "Released": "04 May 2012",
       "Runtime": "143 min",
@@ -79,7 +79,7 @@
      
     },
     {
-      "ID":"5A",
+      "ID":"6",
       "Title": "LYLE, CHÚ CÁ SẤU BIẾT HÁT 2D LT",
       "Released": "Từ 29/10/2022",
       "Runtime": "143 min",
