@@ -1,0 +1,19 @@
+E:\>git clone https://github.com/legiacong/legiacong.github.io.git
+
+Cloning into 'legiacong.github.io'...
+
+warning: You appear to have cloned an empty repository.
+
+E:\legiacong.github.io>git add sinhVien.json
+
+ 
+
+E:\legiacong.github.io>git commit -m "them du lieu"
+
+[master (root-commit) f08fcc7] them du lieu
+
+ 1 file changed, 32 insertions(+)
+
+ create mode 100644 sinhVien.json
+
+E:\legiacong.github.io>git push
